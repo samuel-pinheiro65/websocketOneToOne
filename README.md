@@ -397,7 +397,6 @@ services:
 ### Pré-requisitos
 - Java 17+
 - MongoDB 5.0+
-- Node.js (opcional, para ferramentas frontend)
 
 ### Passos
 
